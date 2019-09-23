@@ -10,3 +10,8 @@ Use Various machine Learning Algorithms to identify handwritten symbols with the
 - Python 3 
 - Matplotlib 
 - SciKit Learn
+
+### Models Employed: 
+
+	 -  Random Forest 
+	 -  Neural Networks
